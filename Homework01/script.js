@@ -34,3 +34,4 @@ var secondNumber = parseInt (secondNumberString)
 var squareOfFirstNumber = firstNumber * firstNumber;
 var squareOfFSecondNumber = secondNumber ** 2;
 */
+
